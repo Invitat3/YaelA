@@ -153,7 +153,7 @@
         border: 4px solid transparent;
         border-image: url("./imagen/marco.jpg") 30 round;
         /*  border: 4px solid #2758f8;*/
-        background: rgba(236, 228, 228, 0.021);
+        background: rgba(0, 0, 0, 0.24);
         box-sizing: border-box;
         z-index: 5;
         display: flex;
