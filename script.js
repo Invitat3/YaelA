@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", function() {
         balloon.style.height = size * 2.5 + "px";
 
         balloon.style.left = Math.random() * 100 + "%";
-        balloon.style.backgroundImage = "url('imagen/pngtree-elegant-gold-and-green-balloons-with-stars-dots-png-image_16562085-removebg-preview.png')";
+        balloon.style.backgroundImage = "url('imagen/globos.png')";
 
         container.appendChild(balloon);
 
